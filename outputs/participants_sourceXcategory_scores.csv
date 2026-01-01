@@ -1,0 +1,61 @@
+participant_group,n_reports,description_missing_pct,summary_missing_pct,description_len_median,summary_len_median,text_len_total_median,comments_median,top_summary_share,participant_trust_score
+Portal × Traffic Safety/Miscellaneous,78,1.28,0.0,235.5,28.0,263.5,4.0,91.03,0.7323914743059359
+Other × Traffic Safety/Miscellaneous,98,0.0,0.0,269.5,28.0,297.5,3.0,90.82,0.7043625982941908
+iPhone × Traffic Safety/Miscellaneous,115,0.0,0.0,130.0,28.0,161.0,4.0,83.48,0.6795601592408381
+"Other × Unmaintained Vegetation, Right of Way",93,1.08,0.0,138.0,37.0,174.0,3.0,88.17,0.6478007301331334
+Other × Traffic Signal,243,1.23,0.0,202.0,14.0,216.0,3.0,87.24,0.6302868914954638
+Android × Traffic Signal,46,0.0,0.0,151.0,14.0,165.0,3.0,78.26,0.6185015231704156
+"Portal × Unmaintained Vegetation, Right of Way",114,2.63,0.0,140.5,37.0,177.5,3.0,90.35,0.6171580518647133
+Android × Traffic Safety/Miscellaneous,48,0.0,0.0,93.5,28.0,120.5,4.0,83.33,0.6164561720855901
+Portal × Traffic Signal,104,4.81,0.0,282.5,14.0,300.0,3.0,84.62,0.6072811184498594
+Portal × Sidewalk Repair,52,1.92,0.0,166.5,15.0,181.5,3.0,80.77,0.6069269787574327
+Request Form × Stormwater - Miscellaneous,39,0.0,0.0,201.0,26.0,227.0,2.0,97.44,0.6025478437923626
+Request Form × Traffic Sign Down,97,0.0,0.0,121.0,17.0,138.0,3.0,76.29,0.5938091115039588
+Portal × Street Lighting - Traffic,39,5.13,0.0,82.0,25.0,100.0,5.0,76.92,0.5895582515682394
+"Web - Desktop × Unmaintained Vegetation, Right of Way",51,1.96,0.0,138.0,37.0,175.0,3.0,96.08,0.5871541648416865
+Android × Sidewalk Repair,48,0.0,0.0,136.0,15.0,159.0,3.0,83.33,0.5743668850975505
+iPhone × Stormwater - Miscellaneous,32,9.38,0.0,100.0,26.0,126.0,5.0,53.12,0.5703149126300564
+Request Form × Street Lighting - Traffic,36,0.0,0.0,93.0,25.0,118.0,4.0,88.89,0.565325497162567
+Request Form × Sidewalk Repair,32,0.0,0.0,181.5,15.0,196.5,3.0,96.88,0.5597476254380886
+Portal × Traffic Sign Down,94,1.06,0.0,111.0,17.0,130.0,3.0,78.72,0.5523441767429913
+"Android × Unmaintained Vegetation, Right of Way",75,2.67,0.0,101.0,37.0,138.0,3.0,93.33,0.5324335575593894
+"Request Form × Unmaintained Vegetation, Right of Way",57,0.0,0.0,71.0,37.0,105.0,3.0,91.23,0.5311786211268534
+Other × Sidewalk Repair,74,2.7,0.0,154.5,15.0,169.5,3.5,91.89,0.5308851647366534
+iPhone × Traffic Signal,105,1.9,0.0,136.0,14.0,150.0,4.0,92.38,0.526727618940473
+Portal × Blocked Storm Drain,68,2.94,0.0,136.0,19.0,155.0,3.0,92.65,0.49050018681281343
+Other × Street Lighting - Traffic,106,2.83,0.0,70.5,25.0,95.5,5.0,96.23,0.48968894236850535
+Web - Desktop × Traffic Sign Down,31,0.0,0.0,108.0,17.0,125.0,3.0,90.32,0.4891525317889698
+iPhone × Street Lighting - Traffic,41,9.76,0.0,59.0,25.0,76.0,5.0,70.73,0.4844894500280729
+Request Form × Blocked Storm Drain,31,0.0,0.0,163.0,19.0,182.0,2.0,100.0,0.48439522893107523
+Other × Blocked Storm Drain,66,3.03,0.0,155.0,19.0,174.0,3.0,100.0,0.4754004255026755
+Other × Hurricane Michael - Solid Waste -Knuckleboom - Collection Request,37,0.0,0.0,83.0,65.0,148.0,2.0,100.0,0.47482265182183314
+Other × P&R - Tree Maintenance,33,0.0,0.0,56.0,22.0,78.0,4.0,90.91,0.4745131714096803
+"iPhone × Unmaintained Vegetation, Right of Way",225,3.56,0.0,74.0,37.0,111.0,3.0,94.22,0.4692822268116724
+Other × Traffic Sign Down,97,3.09,0.0,112.0,17.0,129.0,3.0,87.63,0.4682781774290388
+Other × Winter Storm Diego Tree Down,34,0.0,0.0,103.0,28.0,131.0,2.0,97.06,0.45298183776636997
+Portal × Park Maintenance,45,0.0,0.0,97.0,16.0,113.0,3.0,95.56,0.43287303978564357
+Android × Park Maintenance,68,0.0,0.0,71.0,16.0,87.0,4.0,97.06,0.4279530756624754
+iPhone × Park Maintenance,139,0.0,0.0,89.0,16.0,105.0,3.0,97.84,0.40546688887953874
+Request Form × Pothole,35,0.0,0.0,140.0,7.0,147.0,2.0,97.14,0.39678374968624924
+Portal × Roll Cart Left at Street,33,3.03,0.0,113.0,24.0,137.0,2.0,100.0,0.38581111336260326
+Portal × Parking - Other,47,0.0,0.0,107.0,15.0,122.0,1.0,97.87,0.38203203547343284
+Web - Desktop × Pothole,30,3.33,0.0,104.0,7.0,111.0,3.0,90.0,0.38104016909346755
+Other × Solid Waste - Yard Waste Dumpster,318,0.0,0.0,50.0,31.0,81.0,2.0,100.0,0.3633642973581171
+Portal × Pothole,125,8.0,0.0,119.0,7.0,128.0,3.0,86.4,0.36316208397845395
+Android × Traffic Sign Down,71,1.41,0.0,56.0,17.0,73.0,3.0,94.37,0.35743432328929753
+iPhone × Traffic Sign Down,256,2.34,0.0,69.0,17.0,86.0,3.0,97.27,0.3478520296993149
+Request Form × Solid Waste - Enforcement Citation,52,0.0,0.0,21.5,34.0,55.5,1.0,100.0,0.3431245115379869
+iPhone × Parking - Other,69,4.35,0.0,93.0,15.0,110.0,2.0,94.2,0.32090010673398905
+iPhone × Sidewalk Repair,175,8.0,0.0,56.0,15.0,71.0,4.0,92.0,0.3143578757459423
+Request Form × Adverse Event Request,32,0.0,0.0,28.0,21.0,49.0,2.0,96.88,0.30023777072432506
+Android × Roll Cart Left at Street,55,3.64,0.0,64.0,24.0,88.0,2.0,100.0,0.29555176515401316
+Request Form × Dead Animal,340,0.29,0.0,73.5,11.0,84.5,2.0,100.0,0.2866353202178188
+Other × Pothole,180,6.11,0.0,100.5,7.0,107.5,3.0,98.89,0.2805365507041766
+iPhone × Blocked Storm Drain,62,14.52,0.0,63.0,19.0,82.0,3.0,98.39,0.2326966210952713
+iPhone × Roll Cart Left at Street,146,22.6,0.0,62.0,24.0,86.0,2.0,100.0,0.20138458330475653
+Android × Dead Animal,37,2.7,0.0,34.0,11.0,45.0,2.0,100.0,0.194832545017054
+Other × Dead Animal,212,6.13,0.0,64.0,11.0,75.0,2.0,100.0,0.18736837308503446
+Web - Desktop × Dead Animal,30,6.67,0.0,51.0,11.0,62.0,2.0,96.67,0.1786012364099292
+iPhone × Pothole,69,14.49,0.0,63.0,7.0,70.0,3.0,98.55,0.16469269523550809
+Portal × Dead Animal,96,9.38,0.0,50.5,11.0,61.5,2.0,95.83,0.14423355493361267
+iPhone × Dead Animal,117,7.69,0.0,32.0,11.0,43.0,2.0,100.0,0.12343772701397855
